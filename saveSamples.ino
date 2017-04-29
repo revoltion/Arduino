@@ -10,8 +10,8 @@ dht11 DHT11;
 byte mac_addr[] = { 0xDE, 0xAD, 0xBE, 0xEF, 0xFE, 0xED };
 
 IPAddress server_addr(192,168,1,104);
-char user[] = "root";
-char password[] = "raspberry";
+char user[] = "yourusername";
+char password[] = "yourpassword";
 
 char query[128];
 
