@@ -12,5 +12,5 @@
 ## 目前该项目下包含的程序有：
 1. blink：LED 灯闪烁。
 2. ledRunner：LED 灯实现跑马灯效果。
-3. interrupt:用外部中断来控制 LED 灯的开关。
+3. interrupt：用外部中断来控制 LED 灯的开关。
 - 追加中……
