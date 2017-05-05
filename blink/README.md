@@ -11,4 +11,4 @@
 1. 将 LED 灯的正极连接至 13 引脚。
 2. 将 LED 灯的负极串联电阻并接地。
 ## 连接图例
-！[](https://raw.githubusercontent.com/LoveCorn/Arduino/master/blink/blink.jpg)
+![](https://raw.githubusercontent.com/LoveCorn/Arduino/master/blink/blink.jpg)
